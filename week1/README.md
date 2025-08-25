@@ -1,1 +1,1 @@
-
+Week 1 – C Basics: Functions & Loops Fundamentals of the C programming language Functions, variables, and loop structures (for, while, do-while) Practice: Simple programs, input/output handling, and pattern printing exercises
